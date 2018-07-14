@@ -115,6 +115,8 @@ nav {
 }
  
 aside {
+  height: 800px;
+  overflow: scroll;
   padding: 20px;
   background: #ffafbd; /* fallback for old browsers */
   background: -webkit-linear-gradient(to right, #ffafbd, #ffc3a0); /* Chrome 10-25, Safari 5.1-6 */
