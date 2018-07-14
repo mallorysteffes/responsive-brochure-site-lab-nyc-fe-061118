@@ -136,6 +136,7 @@ footer {
 
 h1 {
   text-align: center;
+  text-decoration: underline;
   margin-bottom: 1em;
   font-size: 1.3em;
 }
